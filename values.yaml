@@ -1,4 +1,4 @@
-name: mysvc
+name: nginx
 replicas: 2
 
 image: ${artifact.metadata.image}
