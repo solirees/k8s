@@ -1,4 +1,4 @@
-name: shipping
+name: mysvc
 replicas: 2
 
 image: ${artifact.metadata.image}
